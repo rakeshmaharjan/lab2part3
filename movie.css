@@ -46,7 +46,7 @@ body {
     padding-left: 10px;
     font-size: 8pt;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: bold;
+    font-weight: bold;
 }
 
 .review-header {
@@ -97,4 +97,9 @@ body {
     /* background-color: #A2B964; */
     text-align: center;
     /* height: 10px; */
+}
+
+.align-right{
+    width: auto;
+    float: right;
 }
