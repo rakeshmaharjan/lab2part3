@@ -38,7 +38,7 @@ body {
     width: 250px;
     float: right;
     background-color: #A2B964;
-    height: auto;
+    /* height: 870px; */
 }
 .overview-content{
     
@@ -94,12 +94,17 @@ body {
 }
 
 .content-secondary{
-    /* background-color: #A2B964; */
+    background-color: #A2B964;
     text-align: center;
-    /* height: 10px; */
+    height: 20px;
 }
 
 .align-right{
     width: auto;
     float: right;
+}
+
+.top-content
+{
+    height: 860px;
 }
